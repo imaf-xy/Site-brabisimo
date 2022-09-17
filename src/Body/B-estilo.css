@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Silkscreen&display=swap');
+body{
+    background-color: #111;
+    
+}
+.pagina{
+    color: #ccc;
+
+}
+.livro{
+
+    margin-bottom: 150px;
+    font-family: 'Inter', sans-serif;
+    
+}
+.eixo{
+    text-align:left;
+    font: size 1rem;;
+    margin-left:5%;
+}
+.imagem{
+    width: 25%;
+    height: 25%;
+}
+.paragrafo {
+    display: block;
+    font-size: 1.25rem;
+    padding: 0 250px;
+}

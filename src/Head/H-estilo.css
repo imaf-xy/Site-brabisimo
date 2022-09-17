@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Silkscreen&display=swap');
+.cabecalho{
+    color: rgb(231, 228, 228);
+    background-color: #111;
+    margin-bottom: 50px;
+    font-family: 'Inter', sans-serif;
+    font-size: large;
+}
