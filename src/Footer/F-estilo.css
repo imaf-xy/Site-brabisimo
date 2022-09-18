@@ -1,6 +1,9 @@
 .Final{
-   border-style:groove;
-   background-color: rgba(13, 121, 112, 0.548);
-    border-bottom-color: transparent;
-    text-align: left;
+   background-color: rgba(54, 53, 53, 0.842);
+}
+.creditos {
+   padding: 15px 0 10px;
+   margin: 0%;
+   font-size: 1.25rem;
+   color: aliceblue;
 }

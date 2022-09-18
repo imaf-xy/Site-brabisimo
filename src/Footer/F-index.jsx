@@ -3,9 +3,13 @@ import "./F-estilo.css";
 
 function Footer(){
     return(
-<div className="Final">
-ffjfijijjsjdj
-</div>
+        <div className="Final">
+            <div>
+                <p className="creditos">
+                    Alunos: Igor Matias, Mateus Clecio, Flavio Vieira, Maria eduarda, Geovani Harley
+                </p>
+            </div>
+        </div>
     );
 }
 
